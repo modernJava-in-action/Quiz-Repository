@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mangkyu.stream.Quiz6.Quiz6Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-06T11:51:38" hostname="chans-MacBookAir.local" time="0.035">
+  <properties/>
+  <testcase name="quiz1()" classname="com.mangkyu.stream.Quiz6.Quiz6Test" time="0.035"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
